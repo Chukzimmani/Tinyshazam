@@ -1,0 +1,8 @@
+__pycache__/
+*.pkl
+outputs/
+demo_songs/
+songs/
+*.wav
+*.mp3
+*.m4a
